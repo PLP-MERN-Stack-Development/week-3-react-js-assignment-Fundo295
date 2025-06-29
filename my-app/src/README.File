@@ -1,0 +1,24 @@
+n# Task Manager App
+
+![Task Manager Screenshot](./screenshots/app-preview.png)
+
+A modern task management application built with React, Vite, and Tailwind CSS featuring dark/light mode, API integration, and responsive design.
+
+## Features
+
+- 📝 Task management (Create, Complete, Delete, Filter)
+- 🌓 Light/Dark mode toggle
+- 🔍 API data fetching with search and pagination
+- 📱 Fully responsive design
+- 🚀 Optimized with Vite
+- 🎨 Styled with Tailwind CSS
+- 🔄 State persistence using localStorage
+
+## Technologies
+
+- ⚛️ React 18
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🔀 React Router
+- 📦 React Icons (optional)
+
